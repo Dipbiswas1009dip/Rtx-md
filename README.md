@@ -1,101 +1,97 @@
-# Ethix-MD
+<div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Ethix-MD" height="100" src="src/ethix.jpg">
-  </a>
-</p>
+## FIXING  ALL ERRORS IN NEXT UPDATE WAIT..... 
 
-<p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img title="Author" src="https://img.shields.io/badge/Ethix-Xsid-black?style=for-the-badge&logo=WhatsApp"></a>
-</p>
-
-<p align="center">Introducing Ethix-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
-
-<p align="center">
-  <a aria-label="Ethix-MD is free to use" href="https://youtube.com/@mhmodsofc" target="_blank">
-    <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
-  </a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ethix-Xsid/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ethix-Xsid/Ethix-MD?color=blue&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ethix-Xsid/Ethix-MD?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ethix-Xsid/Ethix-MD?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-MD?style=flat-square&color=green"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-
----
-
-### 1. FORK THIS REPO
-
-<a href='https://github.com/Ethix-Xsid/Ethix-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
-### 2. GET SESSION ID VIA PAIR CODE
-
-<a href='https://toxic-crocodile-goutammallick516-cab1ca96.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-### DEPLOY TO HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-
-3. ## Deploy to Koyeb ↓
-
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FEthix-Xsid%2FEthix-MD&branch=main&name=ethix-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
-
-
-
-
-## DEVELOPERS
-
-<div align="left">
-  <a href="https://github.com/Ethix-Xsid"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
   
-  | [SIDHARTH](https://github.com/Ethix-Xsid) |
-  | Owner, Developer, Bug Fixer, Maintainer, updates |
+<div align="center">
+</p
+
+<hr>
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/VajiraTech">
+    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+</a>
+<hr>
+
+<hr>
+
+
+## JOIN MY WHATSAPP CHANNEL
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+
+
+
+<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+
+## CONTACT OWNER
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+
+## JOIN SUPPORT GROUP
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+
+## MY YT CHANNEL
+
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+
+</details>
+
+***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-NEW-fork)***
+
+***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
+
+<hr>
+
+<hr>
+
+
+## DEPLOY BY SESSION ID or creds.json (Qr code)
+
+
+<a href="https://sessionid-de1572610649.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+
+
+<hr>
+
+<hr>
+
+## DEPLOYMENT METHODS
+
+[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+
+<hr>
+
+<hr>
+
 </div>
 
-## HELPERS
-
-<a href="https://github.com/chhaseeb47"><img src="https://github.com/chhaseeb47.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Rushmaster12.png?size=100" width="100" height="100">](https://github.com/Rushmaster12) 
----|---
-[CH HASEEB](https://github.com/Ajmal-Achu)  | [RUSHMASTER](https://github.com/Rushmaster12)
-Promotion | Groups Management|
+</div>
 
 
-## Reminder
+## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
 
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!` (Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
+1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
+2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝚀𝚁 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝙳.
+4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝚘 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
+5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
+6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚅𝙰𝙹𝙸𝚁𝙰 𝙼𝙳 𝙱𝙾𝚃.
 
----
 
-<h1 align="center">Keep Supporting</h1>
+## THANKS TO 👨‍💻
 
-<br>
+• Asif King - Web Design
 
-## Contact
+• Kasun - Testing
 
-<p align="left">
-  <a href="mailto:bsid4961@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/919142294671?text=Hi+sid+Sir...+I+need+some+help+in+Ethix-MD"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
-</p>
+• Danidu Nirmal - Logo Design
+
+• Ushani - Voice Helper
+
+
